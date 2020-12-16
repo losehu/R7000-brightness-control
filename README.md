@@ -1,5 +1,5 @@
 # R7000-brightness-control
-
+#bug fix
 
 
 (一).自动运行
